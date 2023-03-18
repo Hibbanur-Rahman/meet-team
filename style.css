@@ -1,0 +1,58 @@
+
+.our-team
+{
+    margin:auto;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.our-team h1{
+    text-align: center;
+    font-size: 50px;
+}
+.row{
+    display:flex;
+    margin:auto;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.profile{
+    width:300px;
+}
+.profile img{
+    border-radius: 50%;
+    width: 180px;
+}
+.profile div{
+    height:2px;
+    background-color: rgb(238, 182, 182);
+    width:120px;
+}
+.Team-member{
+    margin:auto;
+    margin-top: 100px;
+}
+
+.Team-member h1{
+    text-align: center;
+}
+ .Team-member .profile img{
+    border-radius: 50%;
+    width: 150px;
+    height:150px;
+}
+.Support-Team
+{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.support-team h1{
+    text-align: center;
+}
+.support-team .profile img{
+    border-radius: 50%;
+    width: 140px;
+    height:140px;
+}
