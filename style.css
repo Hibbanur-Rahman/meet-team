@@ -46,7 +46,7 @@
 .Support-Team
 {
     margin-top: 50px;
-    margin-left: 60px;
+/*     margin-left: 60px; */
 }
 .support-team h1{
     text-align: center;
@@ -55,4 +55,10 @@
     border-radius: 50%;
     width: 140px;
     height:140px;
+}
+@media only screen and (max-width: 500px) {
+    .Support-Team {
+        margin-top: 50px;
+        margin-left: 60px;
+    }
 }
